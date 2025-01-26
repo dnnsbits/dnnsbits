@@ -10,3 +10,4 @@
 # Smarthome
 
 * [Homematic IP Zigbee Anbindung mit MQTT](https://github.com/dnnsbits/hmip-mqtt-zigbee)
+* [Homematic IP Tasmota Anbindung über MQTT](https://github.com/dnnsbits/hmip-mqtt-tasmota)
